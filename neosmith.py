@@ -218,3 +218,6 @@ if game_over_screen():
 else:
     # Return to the home page
     import home
+
+
+#corrections needed: home screen to game to game
